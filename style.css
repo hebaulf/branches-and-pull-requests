@@ -12,3 +12,13 @@ main {
   text-align: center;
   background-color: #fff;
 }
+
+a {
+  color: red;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+a:hover {
+  color: blue;
+}

@@ -1,0 +1,14 @@
+body {
+  background-color: #cacaca;
+  margin: 0;
+  padding: 48px;
+  overflow-x: hidden;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  padding: 48px;
+  text-align: center;
+  background-color: #fff;
+}

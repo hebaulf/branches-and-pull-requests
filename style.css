@@ -13,6 +13,16 @@ main {
   background-color: #fff;
 }
 
+a {
+  color: red;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+a:hover {
+  color: blue;
+}
+
 span {
   display: block;
   width: 100%;
